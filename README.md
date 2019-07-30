@@ -1,16 +1,14 @@
-<img src="./dogdayLogo.png"/>
-<img src="./appImage.png"/>
+<img src="./logo.png"/>
+<img src="./app_image.png"/>
 
-### DogDay
-반려견을 위한 D-Day 앱입니다.
+### 먼지알랴줌
+외출할 때 마다 확인하기 귀찮았던 미세먼지 이젠 알람으로 확인하세요~
 
----
+**사용방법**
+1. 주중 주말 버튼 선택
+2. 측정소 검색
+3. 시간 설정
+4. 스위치 ON
 
-### iOS AppStore
-아이폰 앱 스토어에서 앱을 다운로드 받을 수 있습니다.
-<br/>
-<br/>
-<a href="https://itunes.apple.com/kr/app/dogday/id1323721037?l=kr&mt=8"><img src="./appstore.png" width="170" height="58"></a>
-
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+저는 아침 출퇴근 시간에 알람 설정해놓고 사용하고있어요!
+리뷰남겨주시면 최대한 반영하도록 하겠습니다~~~
